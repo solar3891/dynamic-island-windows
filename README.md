@@ -17,12 +17,6 @@
 
 ---
 
-<div align="center">
-  <img src="docs/assets/animation-preview.svg" alt="Dynamic Island Fluid Spring Physics Animation" width="780" />
-</div>
-
----
-
 ## Visual Showcase
 
 <div align="center">
