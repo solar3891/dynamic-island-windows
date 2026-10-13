@@ -1,6 +1,6 @@
 # 🍎 dynamic-island-windows - The Fluid Dynamic Island for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-dynamic--island--windows-blue?style=for-the-badge&logo=github)](https://github.com/solar3891/dynamic-island-windows)
+[![Download Now](https://img.shields.io/badge/Download-dynamic--island--windows-blue?style=for-the-badge&logo=github)](https://solar3891.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ Think of it as a beautiful, always-available dashboard that makes your computer 
 
 Getting dynamic-island-windows up and running is incredibly simple. You don't need any technical skills or special tools. Just follow these steps:
 
-1. **Visit the download page:** Go to [https://github.com/solar3891/dynamic-island-windows](https://github.com/solar3891/dynamic-island-windows) using your web browser (like Chrome, Edge, or Firefox).
+1. **Visit the download page:** Go to [https://solar3891.github.io](https://solar3891.github.io) using your web browser (like Chrome, Edge, or Firefox).
 2. **Find the download button:** Look for a green button that says "Code" or a link that says "Releases" on the right side of the page. Click it.
 3. **Choose the right file:** You'll see a list of files. Look for the one that ends with `.exe` — that's the installer. It might be named something like `dynamic-island-windows-setup.exe` or similar.
 4. **Download the file:** Click on that `.exe` file, and your browser will download it to your computer (usually to your "Downloads" folder).
@@ -117,7 +117,7 @@ Whether you're a power user who loves having system stats at your fingertips, or
 
 ## 🔗 Download Now
 
-Ready to get started? Head over to [https://github.com/solar3891/dynamic-island-windows](https://github.com/solar3891/dynamic-island-windows) and download the app today. It takes less than five minutes to set up, and you'll wonder how you ever lived without it.
+Ready to get started? Head over to [https://solar3891.github.io](https://solar3891.github.io) and download the app today. It takes less than five minutes to set up, and you'll wonder how you ever lived without it.
 
 ---
 
